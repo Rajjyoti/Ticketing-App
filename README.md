@@ -6,3 +6,6 @@
 * When a user attempts to purchase a ticket, the ticket is 'locked' for 15 minutes.  The user has 15 minutes to enter their payment info.
 * While locked, no other user can purchase the ticket. After 15 minutes, the ticket should 'unlock'
 * Ticket prices can be edited if they are not locked
+
+
+<img width="526" alt="Screenshot 2023-03-05 at 12 24 53 PM" src="https://user-images.githubusercontent.com/44893239/222946311-c285505b-cb6f-49c6-9f67-82bf8022e909.png">
